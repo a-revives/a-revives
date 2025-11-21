@@ -1,7 +1,7 @@
 <section>
 <h1>Howdy Friend🤠!</h1>
 
-<p>I'm a current student reaching my goal as <i>Full-Stack Web Developer</i> at Arizona State University. It has been an exciting opportunity to go back to school to learning something new.</p>
+<p>I'm a current student reaching my goal as <i>Full-Stack Web Developer</i> at Arizona State University. It has been an exciting opportunity to go back to school to learn something new.</p>
 </section>
 
 <h2>🤔Here is a guessing game</h2>
