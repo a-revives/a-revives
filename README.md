@@ -7,7 +7,7 @@
 <h2>🤔Here is a guessing game</h2>
   <li>Which state do I live in?</li>
   <img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/b13c6029-3da0-45ce-b1a5-f03cf3492251" /> 
-  <p>If you guessed correctly. I live in California but looking forward to living somewhere else for a change, maybe Arizona???🤷🏽‍♂️</p>
+  <p>If you guessed correctly from the image. I live in California but looking forward to living somewhere else for a change, maybe Arizona???🤷🏽‍♂️</p>
 <h4>🏰Disneyland is my go to for some family fun🏰</h4>
 🧞‍♂️I wish you a wonderful magical day 
 <!--
